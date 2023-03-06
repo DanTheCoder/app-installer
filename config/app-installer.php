@@ -6,5 +6,5 @@ return [
 
     'admin_path' => '/admin',
 
-    'completed' => env('APP_INSTALLER_COMPLETED'),
+    'completed' => env('APP_INSTALLER_COMPLETED', false),
 ];

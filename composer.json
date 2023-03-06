@@ -1,6 +1,6 @@
 {
     "name": "danthecoder/app-installer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A one-click setup wizard installer for Laravel applications that simplifies the set up process for non-technical persons, allowing them to quickly configure and deploy their applications.",
     "keywords": [
         "laravel",
